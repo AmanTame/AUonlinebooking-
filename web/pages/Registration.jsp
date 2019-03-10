@@ -36,7 +36,7 @@
 {
 public PasswordAuthentication getPasswordAuthentication()
 {
-return new PasswordAuthentication("trustever.jc", "'Love to Laugh");
+return new PasswordAuthentication("your email", "your password");
 }
 }
 %>
