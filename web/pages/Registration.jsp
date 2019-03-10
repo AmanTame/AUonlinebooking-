@@ -46,13 +46,13 @@ return new PasswordAuthentication("trustever.jc", "'Love to Laugh");
     int result=0;
     if("Register".equals(request.getParameter("Register")))
     {
-    String d_uname="trustever.jc";
-    String d_password="'Love to Laugh";
+    String d_uname="enter your email here";
+    String d_password="enter your email password here";
     String d_host="smtp.gmail.com";
     int d_port=465;
     
     String m_to=new String();
-    String m_from="trustever.jc@gmail.com";
+    String m_from="your email";
     String m_Subject=new String();
      
    
